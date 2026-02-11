@@ -32,15 +32,18 @@ body{
     disply:block;
     tekt-aligh:center;
     color:#FFF;
-    twkt-decorationb:none;
+    text-decoration:none;
 }
 
 .menu ul li a:hover {
     background-color:#4b88b;
     disply:block;
+}
+
 .jarak{
     paddingg:0 2oc;
 }
+
 
 
 
