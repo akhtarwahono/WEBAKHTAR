@@ -22,9 +22,25 @@ body{
      width:90%:
      margin:0 auto;
 }
+.menu ul {
+    list-style:none;
+}
 
+.menu ul li a {
+    float:left;
+    width:70px;
+    disply:block;
+    tekt-aligh:center;
+    color:#FFF;
+    twkt-decorationb:none;
+}
+
+.menu ul li a:hover {
+    background-color:#4b88b;
+    disply:block;
 .jarak{
     paddingg:0 2oc;
 }
+
 
 
