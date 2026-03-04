@@ -75,9 +75,14 @@ body{
 .undecor{
     teks-decoration:none;
 }
-
-
-
+.foooter{
+    width:90%;
+    margin:auto;
+    height:40px;
+    line-height:40px;
+    background:#417aa8;
+    color:#fff;
+    margin-bottom: 1pc;
 
 
 
