@@ -72,7 +72,9 @@ body{
     background:#fff;
     height:420px;
 }
-
+.undecor{
+    teks-decoration:none;
+}
 
 
 
