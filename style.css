@@ -1,8 +1,8 @@
 body{
     background:#f3f3f3;
-    coclo:#333;
+    color:#333;
     width:100%;
-    font-family:sans-seerif;
+    font-family:sans-serif;
     margin:0 auto;
 }
 
@@ -18,7 +18,7 @@ body{
      background-color:#417aa8;
      height:50px;
      line-height:50px;
-     positive:relaitve;
+     positive:relative;
      width:90%:
      margin:0 auto;
 }
@@ -30,7 +30,7 @@ body{
     float:left;
     width:70px;
     disply:block;
-    tekt-aligh:center;
+    text-align:center;
     color:#FFF;
     text-decoration:none;
 }
@@ -55,7 +55,7 @@ body{
     border:2px solid #4887b9;
     margin-top:1pc;
     padding-bottom:1pc;
-    paddingg-left:2pc;
+    padding-left:2pc;
     padding-right:2pc;
 }
 .kiri{
